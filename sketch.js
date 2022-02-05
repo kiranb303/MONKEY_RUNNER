@@ -97,7 +97,7 @@ if (bg.x < -70){
         }
     drawSprites();
     fill("brown");
-    textSize(15);  
+    textSize(20);  
     stroke(0.01);
     text("Bananas Collected:- "+collected,230,50);
     textSize(20);
